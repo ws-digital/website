@@ -2,3 +2,5 @@ theme: jekyll-theme-hacker
 title: WS Digital
 description: under construction
 show_downloads: false
+github:
+  repository_url: https://github.com/ws-digital/
